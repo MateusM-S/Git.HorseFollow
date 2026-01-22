@@ -1,0 +1,19 @@
+Commands:
+
+/horse follow bind
+# Makes the horse a companion
+/horse follow status
+# Shows if you have a companion bound
+/horsefollow unbind
+# Removes the bound companion
+
+----------------------------
+Comandos:
+/horsefollow bind
+#Faz o cavalo virar um companheiro
+
+/horsefollow status
+#mostra se você tem um companheiro vinculado
+
+/horsefollow unbind
+#remove o companheiro vinculado
